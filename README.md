@@ -1,1 +1,1 @@
-This is some combined content resolving the conflict.
+This is a flutter based basic app , it can dispaly a random face of a dice as when you click on the "roll the dice" button , used random function to display random face <br> Used gradiend color in the background to give the smooth finishing of the color from left to right , purplpe to pink <br> Used column widget to place the pics of the faces and the button under statelesswidget <br> Under statefullwidget was the random function as it was dynamin in nature .
